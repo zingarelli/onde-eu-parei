@@ -19,3 +19,16 @@ Veja o app em ação no vídeo abaixo!
 https://github.com/zingarelli/onde-eu-parei/assets/19349339/641253dd-39f3-4c4c-8317-8dada7691724
 
 *O vídeo foi editado para eliminar o tempo de processamento das respostas.*
+
+## Agradecimentos
+
+Agradeço ao time da Alura, da FIAP e do Google, pela imersão e todo o conteúdo disponibilizado durante a semana!
+
+Agradecimento especial aos instrutores:
+
+- Ana Raquel Cunha
+- Fabrício Carraro
+- Luciano Martins
+- Paulo Silveira
+
+E um agradecimento super especial à galera no discord, que ajudou tirando dúvidas, interagindo e fazendo conexões! 🚀
